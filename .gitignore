@@ -1,0 +1,37 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Executables
+*.exe
+*.out
+
+# Go binary
+bin/
+
+# Go build cache
+*.test
+*.prof
+
+# Dependency directories (remove the ones you don't use)
+vendor/
+.git/
+
+# Output directories
+dist/
+build/
+release/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
